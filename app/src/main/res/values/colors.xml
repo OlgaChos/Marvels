@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#212121</color>
+    <color name="cell_background">#161616</color>
+    <color name="white">#fff</color>
+    <color name="progress_color">#F44336</color>
+    <color name="divider">#E62529</color>
+    <color name="black">#545454</color>
+    <color name="colorRed">#D40203</color>
+</resources>

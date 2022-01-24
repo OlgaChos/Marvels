@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:background="@color/background"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/urlLabel"
+        android:padding="10dp"
+        android:fontFamily="@font/marvel"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/url"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:fontFamily="@font/marvel"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <View
+        android:background="@color/cell_background"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"/>
+</LinearLayout>
